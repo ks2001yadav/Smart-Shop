@@ -1,0 +1,2 @@
+# Smart-Shop
+Django 
